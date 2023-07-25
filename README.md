@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farshid101&label=Profile%20views&color=0e75b6&style=flat" alt="farshid101" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/farshid101/Deep-learning-Practice-](https://github.com/farshid101/Deep-learning-Practice-)
+- 👨‍💻 All of my projects are available at [https://github.com/farshid101/Deep-learning-Practice-](https://github.com/farshid101/Deep-learning-Practice)
 
 - 📫 How to reach me **farshidhossain620@gmail.com**
 
